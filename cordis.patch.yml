@@ -1,0 +1,3 @@
+- insert:
+    - id: token-rate-toast
+      name: '@local/token-rate-toast'
